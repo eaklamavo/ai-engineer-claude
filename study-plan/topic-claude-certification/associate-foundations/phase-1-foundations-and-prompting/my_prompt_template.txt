@@ -1,0 +1,4 @@
+Role: ('A Platform Engineer',)
+Task: ('Draft an announcement about a new SRE AI Agent',)
+Context: ('Audience = all team members; tone = warm and clear; forks and improvement branches allowed',)
+Format: Under 20 words, plain language, one bullet list of key points
